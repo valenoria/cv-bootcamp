@@ -1,0 +1,28 @@
+body {
+  background-color: #957fef;
+  align-items: center;
+  font-size: 100%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 704%;
+}
+
+h1 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h5 {
+  color: white;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: "Sofia";
+}
